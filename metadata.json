@@ -1,0 +1,6 @@
+{
+  "name": "Alphabet Phonics Explorer",
+  "description": "Interactive A-Z phonics and vocabulary studio with spoken pronunciation, letter tracing, dual words, spelling games, and phonics sing-along.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
